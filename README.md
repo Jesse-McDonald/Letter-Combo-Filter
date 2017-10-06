@@ -1,1 +1,1 @@
-# Letter-Combo-Filter
+This program will scan through a given sample of text (in this case the dictionary) and determine which vowels and consonants usually are grouped together and which combinations of a vowel consonants are common
